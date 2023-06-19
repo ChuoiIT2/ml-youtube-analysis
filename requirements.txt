@@ -1,0 +1,10 @@
+# googleapiclient
+scikit-learn
+seaborn
+numpy
+matplotlib
+wordcloud
+pandas
+selenium
+webdriver_manager
+google-api-python-client
